@@ -1,4 +1,4 @@
-example.property: "I AM IN THE Old DEFAULT"
+example.property: "I AM IN THE New DEFAULT"
 spring.datasource.driver-class-name: "oracle.jdbc.driver.OracleDriver"
 spring.datasource.url: "jdbc:oracle:thin:@localhost:1521:XE"
 spring.datasource.username: "test"
