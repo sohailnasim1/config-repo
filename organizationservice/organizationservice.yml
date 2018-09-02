@@ -1,4 +1,5 @@
-example.organization.property: "I AM IN THE DEFAULT ORGANIZATION SERVICE"spring.datasource.driver-class-name: "oracle.jdbc.driver.OracleDriver"
+example.organization.property: "I AM IN THE DEFAULT ORGANIZATION SERVICE"
+spring.datasource.driver-class-name: "oracle.jdbc.driver.OracleDriver"
 spring.datasource.url: "jdbc:oracle:thin:@localhost:1521:XE"
 spring.datasource.username: "test"
 spring.datasource.password: "{cipher}f023bb22b11bb509f746c6bc01361b8d840d36a62a80aac08b0ab5e67e4c8a66"
